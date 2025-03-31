@@ -1,0 +1,176 @@
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "9c679744-5ca2-4666-97d3-5871e78b0761",
+    "durationMs": 4984,
+    "pageName": "Services",
+    "url": "https://example.net/Services",
+    "userId": "user64"
+  },
+  "timestamp": "2025-03-27T15:52:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "c3583f61-df6c-4d4b-8fcb-c40d4f826dc0",
+    "durationMs": 3942,
+    "pageName": "Products",
+    "url": "https://example.com/Products",
+    "userId": "user10"
+  },
+  "timestamp": "2025-03-27T16:08:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "1dc0d2e6-eaf9-48bb-acfb-bffa88cc5bda",
+    "durationMs": 842,
+    "pageName": "Blog",
+    "url": "https://example.org/Blog",
+    "userId": "user48"
+  },
+  "timestamp": "2025-03-27T15:50:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "08827f95-5f93-45e0-873a-7b46eae0ada0",
+    "durationMs": 3525,
+    "pageName": "Products",
+    "url": "https://example.org/Products",
+    "userId": "user63"
+  },
+  "timestamp": "2025-03-27T16:19:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "ab9c8da7-a95b-47a5-a767-4ea62ae02ce1",
+    "durationMs": 4392,
+    "pageName": "Home",
+    "url": "https://example.org/Home",
+    "userId": "user17"
+  },
+  "timestamp": "2025-03-27T16:04:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "bbab0399-0ce4-4d88-8af7-933a23facc4f",
+    "durationMs": 1382,
+    "pageName": "Blog",
+    "url": "https://example.net/Blog",
+    "userId": "user58"
+  },
+  "timestamp": "2025-03-27T15:32:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "767abcea-26b2-4eee-8165-7fa554a5b80d",
+    "durationMs": 2350,
+    "pageName": "Services",
+    "url": "https://example.net/Services",
+    "userId": "user92"
+  },
+  "timestamp": "2025-03-27T15:53:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "7b186f6b-b11f-4c87-8540-8bb80439b72e",
+    "durationMs": 2005,
+    "pageName": "About",
+    "url": "https://example.net/About",
+    "userId": "user81"
+  },
+  "timestamp": "2025-03-27T16:26:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "fe3020fd-d4cc-46d5-b47d-1a903ab17dd2",
+    "durationMs": 4884,
+    "pageName": "Contact",
+    "url": "https://example.com/Contact",
+    "userId": "user9"
+  },
+  "timestamp": "2025-03-27T16:10:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "3ce1bb0c-00e2-4837-8346-ab15c8787657",
+    "durationMs": 909,
+    "pageName": "Products",
+    "url": "https://example.org/Products",
+    "userId": "user77"
+  },
+  "timestamp": "2025-03-27T16:17:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "e49dedc8-ed89-43b8-9cdb-78ac9fd6f085",
+    "durationMs": 2987,
+    "pageName": "Contact",
+    "url": "https://example.com/Contact",
+    "userId": "user34"
+  },
+  "timestamp": "2025-03-27T16:20:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "5f884a9f-d54f-40b5-b0bc-65251e00da7d",
+    "durationMs": 394,
+    "pageName": "Services",
+    "url": "https://example.com/Services",
+    "userId": "user52"
+  },
+  "timestamp": "2025-03-27T16:24:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "2fd8e29b-9705-49b4-a15d-5c91bdd47058",
+    "durationMs": 387,
+    "pageName": "Contact",
+    "url": "https://example.net/Contact",
+    "userId": "user80"
+  },
+  "timestamp": "2025-03-27T16:07:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "993caa56-20f1-434b-ae0a-59d374cfbe10",
+    "durationMs": 2806,
+    "pageName": "About",
+    "url": "https://example.net/About",
+    "userId": "user23"
+  },
+  "timestamp": "2025-03-27T16:02:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "4910631d-0c23-45ed-82b6-da77210c275c",
+    "durationMs": 114,
+    "pageName": "Contact",
+    "url": "https://example.com/Contact",
+    "userId": "user88"
+  },
+  "timestamp": "2025-03-27T15:44:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "0a341f2f-77cc-46bf-a771-71abd36b8f73",
+    "durationMs": 4523,
+    "pageName": "Home",
+    "url": "https://example.org/Home",
+    "userId": "user95"
+  },
+  "timestamp": "2025-03-27T15:48:47.9737027-07:00"
+}

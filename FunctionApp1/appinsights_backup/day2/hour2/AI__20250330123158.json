@@ -1,0 +1,110 @@
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "3858b9f9-7c35-43e3-9fe6-82f9001ea3c7",
+    "durationMs": 4242,
+    "pageName": "About",
+    "url": "https://example.com/About",
+    "userId": "user91"
+  },
+  "timestamp": "2025-03-25T14:38:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "826a79c3-def7-4326-8cc4-ceb92e834b80",
+    "durationMs": 3563,
+    "pageName": "FAQ",
+    "url": "https://example.com/FAQ",
+    "userId": "user70"
+  },
+  "timestamp": "2025-03-25T15:01:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "144d38a9-6745-4346-bc11-e7fa51a9d9c6",
+    "durationMs": 2212,
+    "pageName": "Products",
+    "url": "https://example.net/Products",
+    "userId": "user5"
+  },
+  "timestamp": "2025-03-25T15:07:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "9b467079-2f43-4dd6-99ac-f20a6607e591",
+    "durationMs": 1246,
+    "pageName": "Services",
+    "url": "https://example.net/Services",
+    "userId": "user58"
+  },
+  "timestamp": "2025-03-25T15:24:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "33b5d87f-87bd-45da-841c-b9d5e56d5278",
+    "durationMs": 2765,
+    "pageName": "About",
+    "url": "https://example.org/About",
+    "userId": "user81"
+  },
+  "timestamp": "2025-03-25T15:09:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "5f9e5645-feba-4a98-9eb9-b569f52252da",
+    "durationMs": 4635,
+    "pageName": "Products",
+    "url": "https://example.net/Products",
+    "userId": "user5"
+  },
+  "timestamp": "2025-03-25T14:34:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "686f04ec-1c31-44cc-842a-e47607ad8b66",
+    "durationMs": 3090,
+    "pageName": "FAQ",
+    "url": "https://example.net/FAQ",
+    "userId": "user18"
+  },
+  "timestamp": "2025-03-25T15:08:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "564f8d0c-f6d4-4766-9b34-9af307fd8367",
+    "durationMs": 4545,
+    "pageName": "About",
+    "url": "https://example.com/About",
+    "userId": "user62"
+  },
+  "timestamp": "2025-03-25T15:06:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "96b564ff-415f-4fa4-b47c-cd3eec25e48c",
+    "durationMs": 309,
+    "pageName": "Services",
+    "url": "https://example.org/Services",
+    "userId": "user25"
+  },
+  "timestamp": "2025-03-25T14:40:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "26d9adba-c012-4f21-8878-1faa90ca8ebc",
+    "durationMs": 1703,
+    "pageName": "Home",
+    "url": "https://example.org/Home",
+    "userId": "user90"
+  },
+  "timestamp": "2025-03-25T14:59:47.9737027-07:00"
+}

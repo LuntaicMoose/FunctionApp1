@@ -1,0 +1,11 @@
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "08cbaf2c-c259-4f82-a7a4-3728d197faa7",
+    "durationMs": 1051,
+    "pageName": "Blog",
+    "url": "https://example.com/Blog",
+    "userId": "user80"
+  },
+  "timestamp": "2025-03-25T08:58:47.9737027-07:00"
+}

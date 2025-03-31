@@ -1,0 +1,11 @@
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "b3280561-273e-4de6-8575-a773f791699e",
+    "durationMs": 1018,
+    "pageName": "Contact",
+    "url": "https://example.net/Contact",
+    "userId": "user69"
+  },
+  "timestamp": "2025-03-27T02:52:47.9737027-07:00"
+}

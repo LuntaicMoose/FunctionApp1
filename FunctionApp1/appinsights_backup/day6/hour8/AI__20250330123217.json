@@ -1,0 +1,44 @@
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "cc091c91-b160-4bd9-8d35-6481c4882c54",
+    "durationMs": 1503,
+    "pageName": "FAQ",
+    "url": "https://example.org/FAQ",
+    "userId": "user5"
+  },
+  "timestamp": "2025-03-29T20:41:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "df95dade-944d-4c09-aef4-380f1a3027c5",
+    "durationMs": 4608,
+    "pageName": "Blog",
+    "url": "https://example.org/Blog",
+    "userId": "user49"
+  },
+  "timestamp": "2025-03-29T20:33:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "7c4e7c66-9dc6-42ad-98e5-f651ba44367d",
+    "durationMs": 529,
+    "pageName": "Blog",
+    "url": "https://example.net/Blog",
+    "userId": "user57"
+  },
+  "timestamp": "2025-03-29T21:19:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "ae2ae04d-9e10-4d82-a85a-3260b9c34599",
+    "durationMs": 2632,
+    "pageName": "About",
+    "url": "https://example.com/About",
+    "userId": "user5"
+  },
+  "timestamp": "2025-03-29T21:07:47.9737027-07:00"
+}

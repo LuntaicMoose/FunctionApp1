@@ -1,0 +1,88 @@
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "6943bcfc-6f7e-459f-9be1-1007702f68dd",
+    "durationMs": 4433,
+    "pageName": "Contact",
+    "url": "https://example.org/Contact",
+    "userId": "user72"
+  },
+  "timestamp": "2025-03-28T23:24:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "0e6d938b-48a3-4d81-89cc-f4558a7f71c1",
+    "durationMs": 4312,
+    "pageName": "Home",
+    "url": "https://example.com/Home",
+    "userId": "user7"
+  },
+  "timestamp": "2025-03-28T22:51:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "714ada36-6da0-4971-8bfd-51b63675551c",
+    "durationMs": 3365,
+    "pageName": "Home",
+    "url": "https://example.com/Home",
+    "userId": "user50"
+  },
+  "timestamp": "2025-03-28T22:47:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "70cc0b86-9b99-42a4-9614-039e26db0519",
+    "durationMs": 824,
+    "pageName": "Blog",
+    "url": "https://example.com/Blog",
+    "userId": "user60"
+  },
+  "timestamp": "2025-03-28T23:16:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "9d9cb0c0-7b1a-42b2-bd52-0db9ae726dfd",
+    "durationMs": 1910,
+    "pageName": "About",
+    "url": "https://example.net/About",
+    "userId": "user66"
+  },
+  "timestamp": "2025-03-28T22:40:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "5544dbb2-65d7-4705-8f74-411c912a19c6",
+    "durationMs": 4288,
+    "pageName": "Home",
+    "url": "https://example.com/Home",
+    "userId": "user90"
+  },
+  "timestamp": "2025-03-28T22:37:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "170e5c61-1282-42c0-81ad-c9121d74b222",
+    "durationMs": 1807,
+    "pageName": "Home",
+    "url": "https://example.com/Home",
+    "userId": "user4"
+  },
+  "timestamp": "2025-03-28T22:55:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "e2379d4d-6053-4bda-b625-090b29e41d17",
+    "durationMs": 1064,
+    "pageName": "Contact",
+    "url": "https://example.com/Contact",
+    "userId": "user89"
+  },
+  "timestamp": "2025-03-28T23:17:47.9737027-07:00"
+}

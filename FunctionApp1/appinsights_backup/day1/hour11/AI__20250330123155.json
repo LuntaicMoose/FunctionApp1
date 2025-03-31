@@ -1,0 +1,165 @@
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "4fe90e33-5a32-4a69-b417-01c14c4c4508",
+    "durationMs": 2296,
+    "pageName": "Home",
+    "url": "https://example.org/Home",
+    "userId": "user45"
+  },
+  "timestamp": "2025-03-25T00:17:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "4a2d16c7-9b45-4df2-8cc7-2e6fc54c0275",
+    "durationMs": 2596,
+    "pageName": "Home",
+    "url": "https://example.com/Home",
+    "userId": "user88"
+  },
+  "timestamp": "2025-03-24T23:54:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "15d91e63-57d7-47f9-bf54-89d02a2ccf76",
+    "durationMs": 2452,
+    "pageName": "Blog",
+    "url": "https://example.net/Blog",
+    "userId": "user61"
+  },
+  "timestamp": "2025-03-24T23:41:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "b3bc61a6-679a-4c89-927b-36ed898b2217",
+    "durationMs": 1462,
+    "pageName": "FAQ",
+    "url": "https://example.net/FAQ",
+    "userId": "user51"
+  },
+  "timestamp": "2025-03-25T00:29:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "fa5694db-e777-4438-87f4-d563e134d9b2",
+    "durationMs": 3643,
+    "pageName": "About",
+    "url": "https://example.net/About",
+    "userId": "user96"
+  },
+  "timestamp": "2025-03-25T00:15:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "15bf71a3-14e9-44ab-9f2e-51b03ed9ae94",
+    "durationMs": 946,
+    "pageName": "Contact",
+    "url": "https://example.net/Contact",
+    "userId": "user10"
+  },
+  "timestamp": "2025-03-25T00:16:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "e550d315-e98c-4934-8610-31c5cd52e1eb",
+    "durationMs": 1217,
+    "pageName": "Blog",
+    "url": "https://example.com/Blog",
+    "userId": "user7"
+  },
+  "timestamp": "2025-03-25T00:07:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "145a9cdb-2752-473b-9433-2400d2205029",
+    "durationMs": 3155,
+    "pageName": "Blog",
+    "url": "https://example.com/Blog",
+    "userId": "user95"
+  },
+  "timestamp": "2025-03-24T23:37:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "75c47925-09e9-40a6-8a26-7f9637a2abb5",
+    "durationMs": 4239,
+    "pageName": "About",
+    "url": "https://example.net/About",
+    "userId": "user78"
+  },
+  "timestamp": "2025-03-24T23:48:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "4a981bf1-a5c4-461a-811d-592b18f54fe8",
+    "durationMs": 3152,
+    "pageName": "About",
+    "url": "https://example.net/About",
+    "userId": "user69"
+  },
+  "timestamp": "2025-03-25T00:05:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "cd8e706d-767c-4280-a437-bc7f9aaf4fb9",
+    "durationMs": 3789,
+    "pageName": "Home",
+    "url": "https://example.org/Home",
+    "userId": "user63"
+  },
+  "timestamp": "2025-03-24T23:48:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "6803ad0f-d840-4805-bd44-1b45cd112b7f",
+    "durationMs": 1465,
+    "pageName": "Services",
+    "url": "https://example.org/Services",
+    "userId": "user7"
+  },
+  "timestamp": "2025-03-25T00:25:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "2778eacd-b622-4355-aff1-20abd7bcb259",
+    "durationMs": 755,
+    "pageName": "Home",
+    "url": "https://example.org/Home",
+    "userId": "user84"
+  },
+  "timestamp": "2025-03-25T00:13:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "816701fc-a8b9-435b-a08a-9326c1f1a539",
+    "durationMs": 3252,
+    "pageName": "Products",
+    "url": "https://example.org/Products",
+    "userId": "user27"
+  },
+  "timestamp": "2025-03-24T23:59:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "679fb6de-f7fa-4a28-a5d2-c21b484bfe5b",
+    "durationMs": 1738,
+    "pageName": "About",
+    "url": "https://example.org/About",
+    "userId": "user6"
+  },
+  "timestamp": "2025-03-25T00:04:47.9737027-07:00"
+}

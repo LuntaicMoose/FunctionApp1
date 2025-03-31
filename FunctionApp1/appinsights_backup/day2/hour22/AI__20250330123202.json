@@ -1,0 +1,33 @@
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "e5aef0c0-bcf8-4c7a-9610-e0ee809254d1",
+    "durationMs": 4122,
+    "pageName": "About",
+    "url": "https://example.org/About",
+    "userId": "user26"
+  },
+  "timestamp": "2025-03-26T10:59:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "d5cebf44-7bb5-4443-b928-3033732159ef",
+    "durationMs": 4669,
+    "pageName": "Services",
+    "url": "https://example.org/Services",
+    "userId": "user87"
+  },
+  "timestamp": "2025-03-26T11:20:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "b0065309-20b3-4855-b215-d4a9302b8176",
+    "durationMs": 3254,
+    "pageName": "Blog",
+    "url": "https://example.org/Blog",
+    "userId": "user71"
+  },
+  "timestamp": "2025-03-26T11:14:47.9737027-07:00"
+}

@@ -1,0 +1,132 @@
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "9457c3af-72fa-4adc-b24f-a8c17147632b",
+    "durationMs": 2509,
+    "pageName": "Services",
+    "url": "https://example.net/Services",
+    "userId": "user98"
+  },
+  "timestamp": "2025-03-24T03:19:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "3141e3ae-29d3-4f4d-8bac-6e9bb6582b36",
+    "durationMs": 3632,
+    "pageName": "FAQ",
+    "url": "https://example.net/FAQ",
+    "userId": "user55"
+  },
+  "timestamp": "2025-03-24T03:18:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "f3d658a6-1b10-4282-8f72-96f1c463e70d",
+    "durationMs": 4042,
+    "pageName": "About",
+    "url": "https://example.org/About",
+    "userId": "user57"
+  },
+  "timestamp": "2025-03-24T03:30:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "31d09712-7ee6-4efe-96cf-f71cbbf7d3ca",
+    "durationMs": 1549,
+    "pageName": "Products",
+    "url": "https://example.com/Products",
+    "userId": "user93"
+  },
+  "timestamp": "2025-03-24T03:24:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "21e15784-0102-44a8-8063-caa3568cf79d",
+    "durationMs": 663,
+    "pageName": "Blog",
+    "url": "https://example.com/Blog",
+    "userId": "user54"
+  },
+  "timestamp": "2025-03-24T03:29:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "3291331f-bdc2-4106-85f5-436bcc55b94d",
+    "durationMs": 2254,
+    "pageName": "Services",
+    "url": "https://example.com/Services",
+    "userId": "user36"
+  },
+  "timestamp": "2025-03-24T02:46:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "c27c90cd-fb1c-4539-9f9f-a8a8a7c7efb2",
+    "durationMs": 4341,
+    "pageName": "About",
+    "url": "https://example.com/About",
+    "userId": "user10"
+  },
+  "timestamp": "2025-03-24T03:12:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "d0e78513-3fd0-4331-8175-7082ce9a5307",
+    "durationMs": 3852,
+    "pageName": "Services",
+    "url": "https://example.org/Services",
+    "userId": "user95"
+  },
+  "timestamp": "2025-03-24T02:49:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "1673d7ee-90dd-46c7-b801-ddf4baaaacd2",
+    "durationMs": 1403,
+    "pageName": "About",
+    "url": "https://example.com/About",
+    "userId": "user4"
+  },
+  "timestamp": "2025-03-24T02:47:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "d0266f40-bdbc-4ba6-bfcd-7cab691fc4fb",
+    "durationMs": 4058,
+    "pageName": "FAQ",
+    "url": "https://example.net/FAQ",
+    "userId": "user73"
+  },
+  "timestamp": "2025-03-24T03:03:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "623844a5-974c-45eb-986f-34c78300baeb",
+    "durationMs": 469,
+    "pageName": "FAQ",
+    "url": "https://example.com/FAQ",
+    "userId": "user21"
+  },
+  "timestamp": "2025-03-24T02:50:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "4a376913-1ec3-4277-a3d6-ee6a98af1687",
+    "durationMs": 3931,
+    "pageName": "Products",
+    "url": "https://example.org/Products",
+    "userId": "user6"
+  },
+  "timestamp": "2025-03-24T03:00:47.9737027-07:00"
+}

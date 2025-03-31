@@ -1,0 +1,88 @@
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "fc8d9d55-fde9-4abb-ae41-fa32cf707ac7",
+    "durationMs": 2739,
+    "pageName": "Services",
+    "url": "https://example.org/Services",
+    "userId": "user32"
+  },
+  "timestamp": "2025-03-24T17:28:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "b3ce664f-2637-460e-a6b4-c3ed8be059b5",
+    "durationMs": 2835,
+    "pageName": "About",
+    "url": "https://example.com/About",
+    "userId": "user33"
+  },
+  "timestamp": "2025-03-24T17:00:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "e1c77bb2-654d-4734-9f4e-ed5667a1711d",
+    "durationMs": 2654,
+    "pageName": "Blog",
+    "url": "https://example.net/Blog",
+    "userId": "user19"
+  },
+  "timestamp": "2025-03-24T16:54:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "b04e74cf-7c9f-4c92-85b3-e96335ca1f3a",
+    "durationMs": 3043,
+    "pageName": "Blog",
+    "url": "https://example.com/Blog",
+    "userId": "user3"
+  },
+  "timestamp": "2025-03-24T16:36:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "3fa8b39e-161b-473d-81d9-c8e695dd4b67",
+    "durationMs": 2941,
+    "pageName": "Services",
+    "url": "https://example.org/Services",
+    "userId": "user89"
+  },
+  "timestamp": "2025-03-24T16:42:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "4e374c1e-73dc-4190-a307-b30e19167574",
+    "durationMs": 2266,
+    "pageName": "About",
+    "url": "https://example.com/About",
+    "userId": "user28"
+  },
+  "timestamp": "2025-03-24T16:53:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "97180a7a-2c76-4c2b-8137-587f76b6da48",
+    "durationMs": 3939,
+    "pageName": "Home",
+    "url": "https://example.net/Home",
+    "userId": "user1"
+  },
+  "timestamp": "2025-03-24T17:14:47.9737027-07:00"
+}
+{
+  "name": "PageView",
+  "properties": {
+    "sessionId": "ec0e2956-7a6f-4c61-839d-4ef718ee7700",
+    "durationMs": 4657,
+    "pageName": "About",
+    "url": "https://example.org/About",
+    "userId": "user19"
+  },
+  "timestamp": "2025-03-24T16:41:47.9737027-07:00"
+}
